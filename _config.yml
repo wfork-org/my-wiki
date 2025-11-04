@@ -1,0 +1,8 @@
+title: My Wiki
+description: A sample markdown wiki with sidebar navigation
+theme: "just-the-docs"
+plugins:
+  - jekyll-feed
+
+# Папка для страниц
+docs_dir: docs

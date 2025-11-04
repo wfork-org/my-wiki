@@ -1,0 +1,8 @@
+- title: Home
+  url: index.md
+- title: Guide
+  children:
+    - title: Getting Started
+      url: getting-started.md
+    - title: FAQ
+      url: faq.md
